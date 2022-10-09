@@ -1,0 +1,13 @@
+# Node build artifacts
+**/node_modules
+**/dist
+**/package-lock.json
+**/*.Identifier
+
+# Local development
+**/*.env
+**/*.dev
+**/.DS_Store
+
+# GIT
+**/.gitignore.bak
